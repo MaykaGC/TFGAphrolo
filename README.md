@@ -8,7 +8,10 @@ Una característica destacada de Aphrolo es que los clientes pueden valorar las 
 
 - Java  
 - Java Swing  
-- SQL  
+- SQL
+
+## Librerias
+- mysql_connector_j_9_3_0
 
 ## Funcionalidades principales
 
