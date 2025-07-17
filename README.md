@@ -31,6 +31,8 @@ Proyecto Completado para versión de escritorio.
 
 ## Futuras mejoras
 
+Añadir sección de favoritos para el perfil de usuarios y añadir filtro avanzado (abierto a opciones, según desarrollo de proyecto). 
+
 - Desarrollo de una versión móvil de Aphrolo usando Kotlin y Android Studio para ofrecer una mejor experiencia en dispositivos móviles.
 
 ## Contacto
